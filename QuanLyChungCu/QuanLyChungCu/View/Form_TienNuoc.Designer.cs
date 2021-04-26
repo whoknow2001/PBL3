@@ -37,25 +37,25 @@ namespace QuanLyChungCu.View
             // 
             this.label1.BackColor = System.Drawing.Color.Fuchsia;
             this.label1.Dock = System.Windows.Forms.DockStyle.Right;
-            this.label1.Location = new System.Drawing.Point(798, 0);
+            this.label1.Location = new System.Drawing.Point(803, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(2, 450);
+            this.label1.Size = new System.Drawing.Size(2, 448);
             this.label1.TabIndex = 0;
             // 
             // label2
             // 
             this.label2.BackColor = System.Drawing.Color.Fuchsia;
             this.label2.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.label2.Location = new System.Drawing.Point(0, 448);
+            this.label2.Location = new System.Drawing.Point(0, 446);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(798, 2);
+            this.label2.Size = new System.Drawing.Size(803, 2);
             this.label2.TabIndex = 1;
             // 
             // Form_TienNuoc
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(805, 448);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
