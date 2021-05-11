@@ -33,3 +33,30 @@ C:\Users\gh\Desktop\PBL3\PBL3\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungC
 E:\My Work\Nam 2\Hoc ki 4\PBL3\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.View.Form_ChoThue.resources
 E:\My Work\Nam 2\Hoc ki 4\PBL3\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.View.Form_Dichvu.resources
 E:\My Work\Nam 2\Hoc ki 4\PBL3\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.View.Form_Hopdong.resources
+D:\DoAn3\PBL3\QuanLyChungCu\QuanLyChungCu\bin\Debug\QuanLyChungCu.exe.config
+D:\DoAn3\PBL3\QuanLyChungCu\QuanLyChungCu\bin\Debug\QuanLyChungCu.exe
+D:\DoAn3\PBL3\QuanLyChungCu\QuanLyChungCu\bin\Debug\QuanLyChungCu.pdb
+D:\DoAn3\PBL3\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.csprojAssemblyReference.cache
+D:\DoAn3\PBL3\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.View.Form_ChoThue.resources
+D:\DoAn3\PBL3\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.Form_Login.resources
+D:\DoAn3\PBL3\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.Properties.Resources.resources
+D:\DoAn3\PBL3\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.View.Form_QuanLy.resources
+D:\DoAn3\PBL3\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.View.Form_Dichvu.resources
+D:\DoAn3\PBL3\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.View.Form_Hopdong.resources
+D:\DoAn3\PBL3\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.csproj.GenerateResource.cache
+D:\DoAn3\PBL3\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.csproj.CoreCompileInputs.cache
+D:\DoAn3\PBL3\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.exe
+D:\DoAn3\PBL3\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.pdb
+D:\DoAn3\PBL3\QuanLyChungCu\QuanLyChungCu\bin\Debug\EntityFramework.dll
+D:\DoAn3\PBL3\QuanLyChungCu\QuanLyChungCu\bin\Debug\EntityFramework.SqlServer.dll
+D:\DoAn3\PBL3\QuanLyChungCu\QuanLyChungCu\bin\Debug\EntityFramework.xml
+D:\DoAn3\PBL3\QuanLyChungCu\QuanLyChungCu\bin\Debug\EntityFramework.SqlServer.xml
+D:\DoAn3\PBL3\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.csproj.CopyComplete
+D:\DoAn3\PBL3\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.View.Form_ChiTietHoaDonDV.resources
+D:\DoAn3\PBL3\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.View.Form_ThemHoaDonDV.resources
+D:\DoAn3\PBL3\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.View.Form_QuanLyDichVu.resources
+D:\DoAn3\PBL3\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.View.Form_ThemDichVu.resources
+D:\DoAn3\PBL3\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.View.Form_ThongTinDichVu.resources
+D:\DoAn3\PBL3\QuanLyChungCu\QuanLyChungCu\obj\Debug\QuanLyChungCu.View.Form_ChonSoLuongDV.resources
+D:\DoAn3\PBL3\QuanLyChungCu\QuanLyChungCu\bin\Debug\itextsharp.dll
+D:\DoAn3\PBL3\QuanLyChungCu\QuanLyChungCu\bin\Debug\itextsharp.xml
